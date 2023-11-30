@@ -17,3 +17,8 @@ Nama karakter dan kekuatan
   - kecepatan regenerasi 50%
   - durability 90%
   - ability mokuton, teleport
+- sasuke d ace 
+  - hp 100
+  - kecepatan regenerasi 50%
+  - durability 50%
+  - ability teleport, terbang, fast run
