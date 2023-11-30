@@ -1,7 +1,9 @@
 Rencana Fitur Baru
-- fitur terbang
 - fitur teleport
 - fitur fast run
 - fitur kekeigenkai senju mokuton
 - fitur kekuatan mata rinegan
 - fitur buah iblis hito hito nomi model nika
+- fitur jinchuriki ekor 9
+- fitur mata sharinggan
+
